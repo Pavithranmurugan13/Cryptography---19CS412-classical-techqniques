@@ -51,4 +51,5 @@ int main()
 ~~~
 OUTPUT :-
 <img width="1265" height="663" alt="Screenshot 2025-08-22 142438" src="https://github.com/user-attachments/assets/a5f7ea69-78e0-4bc8-903e-5021691a88fa" />
-
+## Result:
+The program was exceutted sucessfully.
